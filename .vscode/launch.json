@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Chip",
+            "request": "launch",
+            "mainClass": "com.github.ikeras/com.github.ikeras.Chip",
+            "projectName": "utz",
+            "args": [ "ROMs/Games/schip/rockto.ch8", "-s 700" ]
+        }
+    ]
+}
